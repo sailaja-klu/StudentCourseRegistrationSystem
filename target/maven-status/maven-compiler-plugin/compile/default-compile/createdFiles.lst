@@ -1,0 +1,8 @@
+com\studentregistration\model\Course.class
+com\studentregistration\service\RegistrationService.class
+module-info.class
+com\studentregistration\model\Person.class
+com\studentregistration\model\Student.class
+com\studentregistration\model\Registration.class
+com\studentregistration\model\Faculty.class
+com\studentregistration\app\Main.class
